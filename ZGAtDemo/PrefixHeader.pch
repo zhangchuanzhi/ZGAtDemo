@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  ZGAtDemo
+//
+//  Created by offcn_zcz32036 on 2018/5/28.
+//  Copyright © 2018年 cn. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "Masonry.h"
+#define SCREEN_WIDTH      [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT      [UIScreen mainScreen].bounds.size.height
+#define kATFormat  @"@%@ "
+#define kATRegular @"@[\\u4e00-\\u9fa5\\w\\-\\_]+ "
+#endif

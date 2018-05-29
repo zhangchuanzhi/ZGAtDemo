@@ -1,0 +1,21 @@
+PODS:
+  - HPGrowingTextView (1.1)
+  - IQKeyboardManager (6.0.2)
+  - Masonry (1.1.0)
+  - MLLabel (1.10.5)
+
+DEPENDENCIES:
+  - HPGrowingTextView
+  - IQKeyboardManager (~> 6.0.2)
+  - Masonry (~> 1.1.0)
+  - MLLabel
+
+SPEC CHECKSUMS:
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+
+PODFILE CHECKSUM: 715472092d1e34b92c7ee632b907e0773de9b69c
+
+COCOAPODS: 1.4.0
